@@ -1,8 +1,8 @@
 ## Desenvolvedor front-end jr
 
-<div align="left" display="inline">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=viniciusoliveiraalb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="171em" width="530px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusoliveiraalb&layout=compact&langs_count=7&theme=github_dark"/>
+<div align="left" display="inline-block">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=viniciusoliveiraalb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusoliveiraalb&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
   ## Learning:
