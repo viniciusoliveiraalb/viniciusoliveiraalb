@@ -22,6 +22,6 @@
 
 ## Rede social
 <div>
-    <a href="https://www.linkedin.com/in/vinicius-oliveira-968151189/"><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+    <a href="https://www.linkedin.com/in/vinicius-oliveira-968151189/" target="_blank"><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
   </div>
