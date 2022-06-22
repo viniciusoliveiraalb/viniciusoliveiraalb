@@ -1,8 +1,8 @@
 ## Desenvolvedor front-end jr
-
+<a href="https://www.linkedin.com/in/vinicius-oliveira-968151189/">
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusoliveiraalb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" width src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusoliveiraalb&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" width src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusoliveiraalb&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ## Learning:
@@ -20,3 +20,4 @@
           
           
   </div>
+</a>
