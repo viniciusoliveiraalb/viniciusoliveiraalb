@@ -1,7 +1,7 @@
 ## Desenvolvedor front-end jr
 <a href="https://github.com/viniciusoliveiraalb">
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusoliveiraalb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusoliveiraalb&show_icons=true&theme=github_dark&include_all_commits=false&count_private=false"/>
   <img height="150em" width src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusoliveiraalb&layout=compact&langs_count=10&theme=github_dark"/>
 </div>
   
