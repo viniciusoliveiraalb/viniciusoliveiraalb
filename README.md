@@ -1,4 +1,4 @@
- About Me:
+# About Me:
 :brazil: Ola, me chamo Vinicius Oliveira, Aqui voce encontra alguns de meus projetos e o que estou aprendendo. 
 
 🇺🇸 Hello, my name is Vinicius Oliveira, Here you can find some of my projects and what I'm learning.
